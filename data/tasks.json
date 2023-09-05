@@ -16,14 +16,9 @@
       "completed": true
     },
     {
-      "id": "6a83cb09-4db3-44cb-a581-67f17a709d3a",
-      "text": "Evening training on the wheel.",
-      "completed": false
-    },
-    {
       "id": "9ba6cae0-5e47-4775-b49b-448dafa6df4c",
       "text": "Listen to music",
-      "completed": true
+      "completed": false
     }
   ]
 }
